@@ -1,0 +1,747 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pre",
+				"preguntas"
+			],
+			[
+				"prin",
+				"printf"
+			],
+			[
+				"re",
+				"respuesta"
+			],
+			[
+				"rep",
+				"respuesta"
+			],
+			[
+				"c",
+				"c\tcolor: #${1:000};"
+			],
+			[
+				"res",
+				"resultado"
+			],
+			[
+				"rta",
+				"rta_correcta"
+			],
+			[
+				"total",
+				"total_examen"
+			],
+			[
+				"id",
+				"id_rta"
+			],
+			[
+				"i",
+				"id_rta"
+			],
+			[
+				"r",
+				"rta"
+			],
+			[
+				"abs",
+				"abspath\tABSPATH"
+			],
+			[
+				"wp_reset_",
+				"wp_reset_postdata"
+			],
+			[
+				"the_p",
+				"the_post"
+			],
+			[
+				"pre_",
+				"pre_var_dump\tpre_var_dump"
+			],
+			[
+				"quiz",
+				"quizbook"
+			],
+			[
+				"ev",
+				"eva_cap"
+			],
+			[
+				"adm",
+				"admins"
+			],
+			[
+				"th",
+				"the_role"
+			],
+			[
+				"DOING",
+				"DOING_AUTOSAVE"
+			],
+			[
+				"wp_nonce",
+				"wp_nonce_field"
+			],
+			[
+				"peli",
+				"peliculaNva"
+			],
+			[
+				"pl",
+				"peliculaNva"
+			],
+			[
+				"rt",
+				"rta1"
+			],
+			[
+				"solo_resp",
+				"solo_respuesta_1"
+			],
+			[
+				"test_rta_ct",
+				"test_rta_cta_b"
+			],
+			[
+				"update_postm",
+				"update_post_meta"
+			],
+			[
+				"santizeed",
+				"sanitize_text_field"
+			],
+			[
+				"bwc_respuesta",
+				"bwc_respuesta_1"
+			],
+			[
+				"respuesta",
+				"respuesta_1"
+			],
+			[
+				"so",
+				"solo_respuesta_1"
+			],
+			[
+				"func",
+				"function_No\tfuncion_no_existe"
+			],
+			[
+				"fun",
+				"function_No\tfuncion_no_existe"
+			],
+			[
+				"repuesta",
+				"respuesta_correcta"
+			],
+			[
+				"repues",
+				"respuesta_2"
+			],
+			[
+				"me",
+				"mensajes"
+			],
+			[
+				"serv",
+				"servicio"
+			],
+			[
+				"servic",
+				"servicios"
+			],
+			[
+				"ti",
+				"tipoFormulario"
+			],
+			[
+				"ser",
+				"servicios"
+			],
+			[
+				"add_me",
+				"add_meta_box"
+			],
+			[
+				"add_meta",
+				"add_meta_box"
+			],
+			[
+				"strT",
+				"strtolower"
+			],
+			[
+				"te",
+				"text_domain"
+			],
+			[
+				"TE",
+				"text_domain"
+			],
+			[
+				"funct",
+				"function_No\tfuncion_no_existe"
+			],
+			[
+				"co",
+				"comment\tcomentarios"
+			],
+			[
+				"functio",
+				"function_exists"
+			],
+			[
+				"image",
+				"imagemin"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"fwr",
+				"flex-wrap\tproperty"
+			],
+			[
+				"sk",
+				"skew()\ttransform"
+			],
+			[
+				"trans",
+				"transform\tproperty"
+			],
+			[
+				"bra",
+				"border-radius\tproperty"
+			],
+			[
+				"spa",
+				"space-between\tjustify-content"
+			],
+			[
+				"flex",
+				"flex-grow\tproperty"
+			],
+			[
+				"mx",
+				"max-width\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "quizbook/includes/metaboxes.php",
+			"settings":
+			{
+				"buffer_size": 4734,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "quizbook-examen/includes/metaboxes.php",
+			"settings":
+			{
+				"buffer_size": 2568,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/acer/Downloads/Diseño y Desarrollo Web con Bootstrap 4 Incluye 8 Proyectos .txt",
+			"settings":
+			{
+				"buffer_size": 50,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"di",
+				"Package Control: Disable Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/udemy_deLaTorre/wp-content/plugins",
+		"/C/xampp/htdocs/udemy_deLaTorre/wp-content/plugins/quizbook",
+		"/C/xampp/htdocs/udemy_deLaTorre/wp-content/plugins/quizbook/assets",
+		"/C/xampp/htdocs/udemy_deLaTorre/wp-content/plugins/quizbook/includes"
+	],
+	"file_history":
+	[
+		"/C/Users/acer/Downloads/UX. Usabilidad y Experiencia de Usuario.txt",
+		"/C/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/E/ALL FOR FORMAT/OFICCE/posibles seriales office.txt",
+		"/E/ALL FOR FORMAT/TUNE UP/Instrucciones.txt",
+		"/E/SERIES IMETSER/CD IMETSER.txt",
+		"/F/1A/2017/CASAGAS/datos.txt",
+		"/C/xampp/htdocs/udemy_deLaTorre/wp-content/plugins/practica_solo/includes/meta_practica.php",
+		"/C/xampp/htdocs/udemy_deLaTorre/wp-content/plugins/evaluacion-examen/includes/metaboxes.php",
+		"/C/xampp/htdocs/udemy_deLaTorre/wp-content/plugins/evaluacion-examen/includes/scripts.php",
+		"/E/WORDPRESS/LIBRERIAS/chosen/index.html",
+		"/C/xampp/htdocs/udemy_deLaTorre/wp-content/plugins/evaluacion-examen/evaluacion-examen.php",
+		"/C/xampp/htdocs/udemy_deLaTorre/wp-content/plugins/evaluacion-examen/assets/js/custom.js",
+		"/C/xampp/htdocs/udemy_deLaTorre/wp-content/plugins/evaluacion-examen/assets/css/chosen.min.css",
+		"/C/xampp/htdocs/udemy_deLaTorre/wp-content/plugins/quizbook-examen/includes/metaboxes.php",
+		"/C/xampp/htdocs/udemy_deLaTorre/wp-content/plugins/quizbook-examen/includes/postypes.php",
+		"/F/1A/2017/DURAN OSORNO/datos.txt",
+		"/C/xampp/htdocs/udemy_deLaTorre/wp-content/plugins/quizbook-examen/assets/js/scriptsJs.js",
+		"/C/xampp/htdocs/udemy_deLaTorre/wp-content/plugins/evaluacion-examen/includes/posttype.php",
+		"/C/xampp/htdocs/udemy_deLaTorre/wp-content/plugins/quizbook-examen/assets/css/chosen.min.css",
+		"/C/xampp/htdocs/udemy_deLaTorre/wp-content/plugins/quizbook-examen/quizbook-examen.php",
+		"/C/xampp/htdocs/udemy_deLaTorre/wp-content/plugins/quizbook/includes/metaboxes.php",
+		"/C/xampp/htdocs/udemy_deLaTorre/wp-content/plugins/quizbook-examen/includes/scripts.php",
+		"/C/xampp/htdocs/udemy_deLaTorre/wp-content/plugins/quizbook-examen/includes/roles.php",
+		"/C/xampp/htdocs/udemy_deLaTorre/wp-content/plugins/evaluacion-examen/includes/roles.php",
+		"/C/xampp/htdocs/udemy_deLaTorre/wp-content/plugins/evaluacion/includes/posttypes.php",
+		"/C/xampp/htdocs/udemy_deLaTorre/wp-content/plugins/practica_solo/includes/shortcode.php",
+		"/E/CURSOS/haciendo udemy/plugins d la torre/Snippets WP Plugins/index.html",
+		"/C/xampp/htdocs/chuletas/chuletas/WP/soluciones_wp.php",
+		"/C/xampp/htdocs/muebles_glases/wp-content/themes/devita-child/style.css",
+		"/E/Documents/datos pinterest.txt",
+		"/F/BOGOTA_WEB_COMPANY/datos_bwc.txt",
+		"/C/xampp/htdocs/udemy_deLaTorre/wp-content/plugins/quizbook-examen/my_loggg.txt",
+		"/C/xampp/htdocs/udemy_deLaTorre/wp-content/plugins/evaluacion/includes/shortcode.php",
+		"/C/xampp/htdocs/udemy_deLaTorre/wp-content/plugins/evaluacion/assets/js/eva.js",
+		"/C/xampp/htdocs/udemy_deLaTorre/wp-content/plugins/evaluacion/assets/css/evaluacion.css",
+		"/C/xampp/htdocs/udemy_deLaTorre/wp-content/plugins/evaluacion/evaluacion.php",
+		"/C/xampp/htdocs/udemy_deLaTorre/wp-content/plugins/evaluacion/includes/resultados.php",
+		"/C/xampp/htdocs/udemy_deLaTorre/wp-content/plugins/quizbook/includes/scripts.php",
+		"/C/xampp/htdocs/udemy_deLaTorre/wp-content/plugins/evaluacion/includes/scripts.php",
+		"/C/xampp/htdocs/udemy_deLaTorre/wp-content/plugins/evaluacion/includes/meta_eva.php",
+		"/C/xampp/htdocs/udemy_deLaTorre/wp-content/plugins/quizbook/includes/resultados.php",
+		"/C/xampp/htdocs/udemy_deLaTorre/wp-content/plugins/quizbook/assets/js/bwc.js",
+		"/F/1A/2017/LIPUR/.htacces_eyt_agosto_13_2018",
+		"/F/1A/2017/LIPUR/datos_host_lipur.txt",
+		"/F/1A/2017/LIPUR/datos_cliente.txt",
+		"/C/Users/acer/Downloads/sandra imetser/dtos video sandra imetser.txt",
+		"/C/Users/acer/Downloads/sandra imetser/dtos video sandra imetser2.txt",
+		"/F/1A/2017/CALZADO SOFIA/datos.txt",
+		"/C/xampp/htdocs/udemy_deLaTorre/datos.txt",
+		"/E/chuletas/WP/soluciones_wp.php",
+		"/F/1A/2017/LIPUR/lipur.txt",
+		"/D/pasados/STEFANNY/correo stefany.txt",
+		"/C/xampp/htdocs/udemy_deLaTorre/wp-content/plugins/quizbook/includes/shortcode.php",
+		"/C/xampp/htdocs/udemy_deLaTorre/wp-content/plugins/quizbook/assets/css/bwc.css",
+		"/C/Users/acer/AppData/Roaming/Sublime Text 3/Packages/User/funcion_no_existe.sublime-snippet",
+		"/C/xampp/htdocs/chuletas/chuletas/SUBLIME TEXT/snnipets.php",
+		"/C/xampp/htdocs/chuletas/chuletas/SUBLIME TEXT/plugins_keybindings.php",
+		"/C/xampp/htdocs/chuletas/chuletas/SUBLIME TEXT/lista_plugins.php",
+		"/C/Users/acer/AppData/Roaming/Sublime Text 3/Packages/User/pre_var_dump.sublime-snippet",
+		"/C/xampp/htdocs/chuletas/chuletas/WP/textos.php",
+		"/C/xampp/htdocs/chuletas/chuletas/WP/cotact_form.php",
+		"/C/Users/acer/AppData/Roaming/Sublime Text 3/Packages/User/lar_array.sublime-snippet",
+		"/C/Users/acer/AppData/Roaming/Sublime Text 3/Packages/User/ABSPATH.sublime-snippet",
+		"/C/Users/acer/AppData/Roaming/Sublime Text 3/Packages/User/comentarios.sublime-snippet",
+		"/F/1A/2017/ESVECOREAL/datos.txt",
+		"/C/Users/acer/Downloads/core.13240",
+		"/E/Documents/datos meetup.txt",
+		"/E/Documents/datos udemy.txt",
+		"/C/xampp/htdocs/udemy_gilbert/wp-content/plugins/crud/public/class-crud-public.php",
+		"/C/Users/acer/Downloads/OpenWebinars - Curso de React.js.txt",
+		"/C/xampp/htdocs/udemy_gilbert/wp-content/plugins/cxrud/cxrud.php",
+		"/C/xampp/htdocs/udemy_deLaTorre/wp-content/themes/twentyseventeen/style.css",
+		"/C/xampp/htdocs/udemy_deLaTorre/wp-content/plugins/goth/goth.php",
+		"/C/xampp/htdocs/udemy_deLaTorre/wp-content/plugins/goth/includes/class-goth-activator.php",
+		"/C/xampp/htdocs/udemy_deLaTorre/wp-content/themes/twentyseventeen/template-parts/page/content-page.php",
+		"/E/wp/themes 2018/WOOCOMMERC E/devita-10/sample-data/exported_files/bike1/theme_options.json",
+		"/C/Users/acer/Downloads/React 16 de Principiante a Experto Creando +10 Aplicaciones.txt",
+		"/F/BOGOTA_WEB_COMPANY/PROYECTOS/1 DE MAYO/datos.txt",
+		"/E/wp/themes 2018/WOOCOMMERC E/devita-10/sample-data/exported_files/bike1/mega-main-menu-backup.txt",
+		"/C/xampp/htdocs/1mayo/wp-config.php",
+		"/C/xampp/php/php.ini",
+		"/C/xampp/htdocs/udemy_deLaTorre/wp-content/plugins/evaluacion/assets/css/eva_admin.css",
+		"/C/xampp/htdocs/udemy_deLaTorre/wp-content/plugins/quizbook/includes/roles.php",
+		"/C/xampp/htdocs/udemy_deLaTorre/wp-content/plugins/practica_solo/includes/practica_rol.php",
+		"/C/xampp/htdocs/udemy_deLaTorre/wp-content/plugins/quizbook/assets/css/admin.css",
+		"/C/xampp/htdocs/udemy_deLaTorre/wp-content/plugins/practica_solo/includes/scripts.php",
+		"/C/xampp/htdocs/udemy_deLaTorre/wp-content/plugins/practica_solo/assets/js/practica.js",
+		"/C/xampp/htdocs/udemy_deLaTorre/wp-content/plugins/practica_solo/practica.php",
+		"/C/xampp/htdocs/udemy_deLaTorre/wp-content/plugins/practica_solo/assets/css/practica.css",
+		"/C/xampp/htdocs/udemy_deLaTorre/wp-content/plugins/quizbook/quizbook.php",
+		"/C/xampp/htdocs/udemy_deLaTorre/wp-content/plugins/evaluacion/includes/function.php",
+		"/C/xampp/htdocs/udemy_deLaTorre/wp-content/plugins/practica_solo/includes/functions.php",
+		"/C/xampp/htdocs/udemy_deLaTorre/wp-content/plugins/quizbook/includes/functions.php",
+		"/C/xampp/htdocs/muebles2/wp-config.php",
+		"/E/wp/themes 2018/WOOCOMMERC E/xtocky121/Instruction.txt",
+		"/E/wp/themes 2018/WOOCOMMERC E/xtocky121/dummy data/demo-content/default/dummy.xml",
+		"/E/wp/themes 2018/WOOCOMMERC E/xtocky121/dummy data/demo-content/theme options.json",
+		"/C/xampp/htdocs/udemy_deLaTorre/wp-content/plugins/practica_solo/includes/posttypes.php",
+		"/C/xampp/htdocs/udemy_deLaTorre/wp-content/plugins/practica_solo/includes/practica_roles.php",
+		"/C/xampp/htdocs/udemy_deLaTorre/wp-content/plugins/practica_solo/test_solo.php",
+		"/C/xampp/htdocs/udemy_deLaTorre/wp-content/plugins/quizbook/includes/posttypes.php",
+		"/C/xampp/htdocs/udemy_deLaTorre/wp-content/plugins/test_solo/includes/practica_roles.php",
+		"/C/xampp/htdocs/udemy_deLaTorre/wp-content/plugins/test_solo/includes/postTypes.php",
+		"/C/xampp/htdocs/udemy_deLaTorre/wp-content/plugins/test_solo/includes/metaboxes.php",
+		"/C/xampp/htdocs/udemy_deLaTorre/wp-content/plugins/test_solo/test_solo.php",
+		"/C/xampp/htdocs/udemy_deLaTorre/wp-content/plugins/test_solo/includes/shortcode.php",
+		"/C/xampp/htdocs/udemy_deLaTorre/wp-content/plugins/test_solo/includes/solo_roles.php",
+		"/C/xampp/htdocs/udemy_deLaTorre/wp-content/plugins/evaluacion/includes/eva_rol.php",
+		"/F/BASE PROYECTOS/chuletas/post_types_taxonomias.php",
+		"/F/BOGOTA_WEB_COMPANY/datos_clicks_no_validos.txt",
+		"/C/Users/acer/Downloads/direcciones IP Adwords",
+		"/F/BOGOTA_WEB_COMPANY/datos_tawkto.txt",
+		"/C/xampp/htdocs/udemy_deLaTorre/wp-content/plugins/tmp/tmp.php",
+		"/C/xampp/htdocs/udemy_deLaTorre/wp-content/plugins/tmp/includes/post.php",
+		"/C/Users/acer/Downloads/sandra imetser/IMG-20180727-WA0056.jpg",
+		"/C/xampp/htdocs/udemy_deLaTorre/wp-content/plugins/tmp/includes/meta.php",
+		"/C/Users/acer/Downloads/Curso Online de Vagrant.txt",
+		"/C/xampp/htdocs/vue_ed_solo/gulpfile.js",
+		"/E/Documents/datos wmedia.txt",
+		"/E/Documents/datos trello.txt",
+		"/C/Users/acer/Downloads/form_tmp_jd.html",
+		"/C/xampp/htdocs/CGWIN/test.txt",
+		"/C/Users/acer/Downloads/Branding_ Crea y diseña un cartel publicitario.txt",
+		"/E/Documents/datos mega descarcgas.txt",
+		"/F/CURSOS HACIENDO/PLUGINS DELA TORRE/RECURSOS/Snippets WP Plugins/index.html",
+		"/C/xampp/htdocs/udemy_deLaTorre/wp-content/plugins/solo/solo.php",
+		"/G/BASE PROYECTOS/chuletas/codigosUtiles.php",
+		"/G/BASE PROYECTOS/chuletas/WP/basico.php"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 107.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"eva_guarda_metaboxes_previa",
+			"previa_nonce",
+			"quizbook_nonce",
+			"bwc_guarda_metaboxes",
+			"==",
+			"td",
+			"multiple select",
+			"bwc_examenes",
+			"eva_posttype_prueba",
+			" .chosen-container {",
+			"107px",
+			"eva_add_test_capabilities",
+			"pruebaTest",
+			"Quiz",
+			"previases",
+			"pruebaTest",
+			"eva_posttype",
+			"evaluacion",
+			"Evaluacion",
+			"evaluacion",
+			"Evaluacion",
+			"examenes",
+			"Examenes",
+			"eva_posttype_examenes",
+			"Evaluaciones",
+			"examen",
+			"Examen",
+			"evaluacion",
+			"Evaluacion",
+			"Quiz",
+			"eva_posttype",
+			"bwc_remove_examenesa_cpabilities",
+			"add",
+			"quizbook_examenes_post_type",
+			"bwc_quiz_post_type_examenes",
+			"quizbook_rewrite_flush_examenes",
+			"bwc_rewrite_flush_examenes",
+			"Quiz",
+			"bwc_quiz_post_type_examenes",
+			"quiz",
+			"Quiz",
+			"bwc_quiz_post_type",
+			"quizbook_examen_revisar",
+			"quizbook_resultados",
+			"resp",
+			"f07a",
+			"$$60d813$$ca$a6a$",
+			"resp",
+			"pregunta",
+			"rt_correcta",
+			"1",
+			"rt__correcta",
+			"rt__eval_4",
+			"rt__eval_3",
+			"rt__eval_2",
+			"rt__eval_1",
+			"rt__corr",
+			"respuesta_5",
+			"respuesta_4",
+			"respuesta_3",
+			"respuesta_2",
+			"respuesta_1",
+			"rta",
+			"'];\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "quizbook/includes/metaboxes.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4734,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3276,
+								3276
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1680.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "quizbook-examen/includes/metaboxes.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2568,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1873,
+								1873
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1227.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/acer/Downloads/Diseño y Desarrollo Web con Bootstrap 4 Incluye 8 Proyectos .txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 50,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								50,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "udemy_dela_torre.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"bwc",
+				"plugins\\quizbook\\assets\\css\\bwc.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 254.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
